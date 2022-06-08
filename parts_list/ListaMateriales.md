@@ -1,20 +1,20 @@
 # Lista de Materiales
 ## Tablero 
 
-| Lista de Materiales Tablero                  |                                    |
-| -----------------------------------------    |:------------------------------:    |
-| [PLC IFM CR710S](https://www.ifm.com/es/es/product/CR710S) | <img src="images/CR710S.jpg" width="30%">    |
-| [IO-LINK IFM AL1120](https://www.ifm.com/de/en/product/AL1120)| <img src="images/iolink.jpg" width="30%">    |
-| [PANTALLA HMI CR1077](https://www.ifm.com/es/es/product/CR1077) | <img src="images/CR1077.jpg" width="30%"/>   |
-| [FUENTE DE VOLTAJE](http://dmu.cl/fuentes-de-poder/fuentes-de-poder-24vdc/fuente-poder-24v-10a-riel-din-ndr-240-24)| <img src="images/fuente.jpg" width="30%"/>   |
-| [ ](  )           | <img src="#" width="40%"/>     |
-| [ ](  )           | <img src="#" width="40%"/>     |
-| [ ](  )           | <img src="#" width="40%"/>     |
-| [ ](  )           | <img src="#" width="40%"/>     |
-| [ ](  )           | <img src="#" width="40%"/>     |
-| [ ](  )           | <img src="#" width="40%"/>     |
-| [ ](  )           | <img src="#" width="40%"/>     |
-| [ ](  )           | <img src="#" width="40%"/>     |
+| Item | Lista de Materiales Tablero:   | Ref.        | Cantidad |
+| -----| :--------------------------- |:-----------: | :--------:|
+|1| [PLC IFM CR710S](https://www.ifm.com/es/es/product/CR710S) |<img src="images/CR710S.jpg" width="30%">| 1 |
+|2| [IO-LINK IFM AL1120](https://www.ifm.com/de/en/product/AL1120)| <img src="images/iolink.jpg" width="30%">| 1 |
+|3| [PANTALLA HMI CR1077](https://www.ifm.com/es/es/product/CR1077) | <img src="images/CR1077.jpg" width="30%"/>| 1 |
+|4| [FUENTE DE VOLTAJE](http://dmu.cl/fuentes-de-poder/fuentes-de-poder-24vdc/fuente-poder-24v-10a-riel-din-ndr-240-24)|<img src="images/fuente.jpg" width="30%"/>| 1 |
+|5|  [ ](  ) | <img src="#" width="40%"/>  |
+|6|  [ ](  ) | <img src="#" width="40%"/>  |
+|7|  [ ](  ) | <img src="#" width="40%"/>  |
+|8|  [ ](  ) | <img src="#" width="40%"/>  |
+|9|  [ ](  ) | <img src="#" width="40%"/>  |
+|10| [ ](  ) | <img src="#" width="40%"/>  |
+|11| [ ](  ) | <img src="#" width="40%"/>  |
+|12| [ ](  ) | <img src="#" width="40%"/>  |
 
 
 
