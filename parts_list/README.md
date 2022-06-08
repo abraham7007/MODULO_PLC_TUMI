@@ -1,7 +1,7 @@
 # Lista de Materiales
 ## Tablero Principal
 
-| Item | Lista de Materiales Tablero |Imágen Referencial | Cantidad |
+| Item | Lista de Materiales Tablero Principal |Imágen Referencial | Cantidad |
 | -----| :-------------------------- | :-----------:     | --------:|
 |1| [PLC IFM CR710S](https://www.ifm.com/es/es/product/CR710S) |<img src="images/CR710S.jpg" width="30%">| 1 |
 |2| [IO-LINK IFM AL1120](https://www.ifm.com/de/en/product/AL1120)| <img src="images/iolink.jpg" width="30%">| 1 |
@@ -19,7 +19,7 @@
 
 ## Tablero Secundario
 
-| Item | Lista de Materiales Tablero |Imágen Referencial | Cantidad |
+| Item | Lista de Materiales Tablero Secundario |Imágen Referencial | Cantidad |
 | -----| :-------------------------- | :-----------:     | --------:|
 |1| [JOYSTICKS APEM HF SERIES](https://www.apem.com/us/hf-series-42.html) |<img src="images/hf.jpg" width="30%">| 1 |
 |2| [MOTOR HG37-010-AB-00](https://www.mouser.pe/ProductDetail/Nidec-Copal/HG37-010-AB-00?qs=Wj%2FVkw3K%252BMDXk9B7HZtFzg%3D%3D)| <img src="images/motor.jpg" width="30%">| 1 |
